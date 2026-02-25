@@ -37,7 +37,6 @@ Students preparing for:
 - SSC
 - JEE
 - PGEE
-- ISI
 - Banking Exams
 - Any competitive exam
 
@@ -127,11 +126,10 @@ Nothing is sent to any server.
 
 ## 📦 Project Structure
 ExamDay/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html # Main app interface
+├── style.css # Styling and responsive design
+├── script.js # App logic and localStorage handling
+└── README.md # Project documentation
 
 
 ---
